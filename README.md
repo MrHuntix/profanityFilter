@@ -2,6 +2,7 @@
 A demonstration of a simple profanity filter.  
   
 STEPS TO RUN  
+download and extract the files  
 run profanityCalculator.py   
   
 Assumptions  
